@@ -4,6 +4,12 @@ color:
   lightness: 0.6225515694823116
   saturation: 0.5663722157478333
   rhythmicContrast: 0.6506058531813323
+  brandColors:
+    - '#64338F'
+    - '#F49331'
+    - '#FFFFFF'
+    - '#E71E8C'
+    - '#8EB499'
 layout_spectrum: 0.043438678374513984
 logo: null
 name: Fig Tree Day Nursery
