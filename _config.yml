@@ -1,14 +1,14 @@
-layout_spectrum: 0.7927627158351243
-typography_spectrum: 0.4782242267392576
+layout_spectrum: 0.043438678374513984
+typography_spectrum: 0.0280445059761405
 color:
-  brandStrength: 0.35250034369528294
-  lightness: 0.5855190185829997
-  saturation: 0.8468524643685669
-  rhythmicContrast: 0.8221158985979855
+  brandStrength: 0.39998318161815405
+  lightness: 0.6225515694823116
+  saturation: 0.5663722157478333
+  rhythmicContrast: 0.6506058531813323
   brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: Fig Tree Day Nursery
